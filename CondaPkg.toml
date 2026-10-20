@@ -2,3 +2,4 @@ channels = ["conda-forge"]
 
 [deps]
 pygad = ""
+python = ">=3.10,<3.15"
